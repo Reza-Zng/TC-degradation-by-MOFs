@@ -1,4 +1,4 @@
-,Surface area (m2/g),Pore Volume (cm3/g),Catalyst dosage (g/L),Antibiotic dosage (mg/L),Illumination time (min),pH,Degradation efficiency (%)
+MOF,Surface area (m2/g),Pore Volume (cm3/g),Catalyst dosage (g/L),Antibiotic dosage (mg/L),Illumination time (min),pH,Degradation (%)
 MIL-101,180.41,0.32,0.05,50,0,4.1,12
 MIL-101,180.41,0.32,0.05,50,5,4.1,19
 MIL-101,180.41,0.32,0.05,50,10,4.1,35
