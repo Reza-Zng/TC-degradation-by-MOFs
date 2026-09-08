@@ -1,4 +1,4 @@
-# TC-degradation-by-MOFs
+# Tetracycline Degradation by MOFs
 
 This is a small machine learning practice project based on the paper “An insight into tetracycline photocatalytic degradation by MOFs using the artificial intelligence technique”.
 
