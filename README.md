@@ -1,6 +1,6 @@
 # TC-degradation-by-MOFs
 
-This is a small machine learning practice project based on the paper *“An insight into tetracycline photocatalytic degradation by MOFs using the artificial intelligence technique”*.
+This is a small machine learning practice project based on the paper “An insight into tetracycline photocatalytic degradation by MOFs using the artificial intelligence technique”.
 
 I first recreated the Gaussian Process Regression (GPR) approach used in the paper, then extended the analysis to experiment with additional regression models and a more complete ML workflow.
 
